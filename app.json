@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "eGura",
+    "slug": "eGura",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
